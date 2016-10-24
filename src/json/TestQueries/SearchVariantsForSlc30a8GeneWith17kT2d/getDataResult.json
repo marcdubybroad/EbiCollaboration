@@ -1,0 +1,619 @@
+{
+    "is_error": false,
+    "numRecords": 12,
+    "variants": [
+        [
+            {
+                "CHROM": "17"
+            },
+            {
+                "CLOSEST_GENE": "SLC16A11"
+            },
+            {
+                "Consequence": "5_prime_UTR_variant"
+            },
+            {
+                "DBSNP_ID": "rs2292351"
+            },
+            {
+                "POS": 6946921
+            },
+            {
+                "Protein_change": null
+            },
+            {
+                "VAR_ID": "17_6946921_C_G"
+            },
+            {
+                "OR_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 1.2781324639535
+                    }
+                }
+            },
+            {
+                "MINU": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 1911
+                    }
+                }
+            },
+            {
+                "MINA": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 2256
+                    }
+                }
+            },
+            {
+                "P_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 4.814e-10
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "CHROM": "17"
+            },
+            {
+                "CLOSEST_GENE": "SLC16A11"
+            },
+            {
+                "Consequence": "missense_variant"
+            },
+            {
+                "DBSNP_ID": "rs75493593"
+            },
+            {
+                "POS": 6945087
+            },
+            {
+                "Protein_change": "p.P443T"
+            },
+            {
+                "VAR_ID": "17_6945087_G_T,C"
+            },
+            {
+                "OR_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 1.26630093392898
+                    }
+                }
+            },
+            {
+                "MINU": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 1967
+                    }
+                }
+            },
+            {
+                "MINA": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 2297
+                    }
+                }
+            },
+            {
+                "P_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 2.112e-9
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "CHROM": "7"
+            },
+            {
+                "CLOSEST_GENE": "PAX4"
+            },
+            {
+                "Consequence": "missense_variant"
+            },
+            {
+                "DBSNP_ID": "rs2233580"
+            },
+            {
+                "POS": 127253550
+            },
+            {
+                "Protein_change": "p.R192H"
+            },
+            {
+                "VAR_ID": "7_127253550_C_T"
+            },
+            {
+                "OR_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 1.79355556709536
+                    }
+                }
+            },
+            {
+                "MINU": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 179
+                    }
+                }
+            },
+            {
+                "MINA": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 267
+                    }
+                }
+            },
+            {
+                "P_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 7.422e-9
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "CHROM": "17"
+            },
+            {
+                "CLOSEST_GENE": "SLC16A13"
+            },
+            {
+                "Consequence": "synonymous_variant"
+            },
+            {
+                "DBSNP_ID": "rs76070643"
+            },
+            {
+                "POS": 6941625
+            },
+            {
+                "Protein_change": "p.Y166Y"
+            },
+            {
+                "VAR_ID": "17_6941625_C_T"
+            },
+            {
+                "OR_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 1.24607673058738
+                    }
+                }
+            },
+            {
+                "MINU": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 2016
+                    }
+                }
+            },
+            {
+                "MINA": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 2330
+                    }
+                }
+            },
+            {
+                "P_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 9.909e-9
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "CHROM": "17"
+            },
+            {
+                "CLOSEST_GENE": "SLC16A11"
+            },
+            {
+                "Consequence": "missense_variant"
+            },
+            {
+                "DBSNP_ID": "rs13342692"
+            },
+            {
+                "POS": 6946287
+            },
+            {
+                "Protein_change": "p.D127G"
+            },
+            {
+                "VAR_ID": "17_6946287_T_C"
+            },
+            {
+                "OR_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 1.20550672834936
+                    }
+                }
+            },
+            {
+                "MINU": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 2718
+                    }
+                }
+            },
+            {
+                "MINA": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 3055
+                    }
+                }
+            },
+            {
+                "P_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 2.499e-8
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "CHROM": "8"
+            },
+            {
+                "CLOSEST_GENE": "SLC30A8"
+            },
+            {
+                "Consequence": "missense_variant"
+            },
+            {
+                "DBSNP_ID": "rs13266634"
+            },
+            {
+                "POS": 118184783
+            },
+            {
+                "Protein_change": "p.R325W"
+            },
+            {
+                "VAR_ID": "8_118184783_C_T"
+            },
+            {
+                "OR_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 0.869445175569282
+                    }
+                }
+            },
+            {
+                "MINU": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 4953
+                    }
+                }
+            },
+            {
+                "MINA": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 4416
+                    }
+                }
+            },
+            {
+                "P_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 7.661e-8
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "CHROM": "22"
+            },
+            {
+                "CLOSEST_GENE": "SFI1"
+            },
+            {
+                "Consequence": "missense_variant"
+            },
+            {
+                "DBSNP_ID": "rs12171042"
+            },
+            {
+                "POS": 32011225
+            },
+            {
+                "Protein_change": "p.L1056P"
+            },
+            {
+                "VAR_ID": "22_32011225_T_C"
+            },
+            {
+                "OR_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 1.1255817352418
+                    }
+                }
+            },
+            {
+                "MINU": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 5714
+                    }
+                }
+            },
+            {
+                "MINA": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 6003
+                    }
+                }
+            },
+            {
+                "P_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 0.000001339
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "CHROM": "14"
+            },
+            {
+                "CLOSEST_GENE": "TDP1"
+            },
+            {
+                "Consequence": "intron_variant"
+            },
+            {
+                "DBSNP_ID": "rs35785875"
+            },
+            {
+                "POS": 90499425
+            },
+            {
+                "Protein_change": null
+            },
+            {
+                "VAR_ID": "14_90499425_A_T"
+            },
+            {
+                "OR_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 1.68303716911424
+                    }
+                }
+            },
+            {
+                "MINU": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 151
+                    }
+                }
+            },
+            {
+                "MINA": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 252
+                    }
+                }
+            },
+            {
+                "P_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 0.000002367
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "CHROM": "2"
+            },
+            {
+                "CLOSEST_GENE": "COBLL1"
+            },
+            {
+                "Consequence": "intron_variant,feature_truncation"
+            },
+            {
+                "DBSNP_ID": "rs66908017"
+            },
+            {
+                "POS": 165552353
+            },
+            {
+                "Protein_change": null
+            },
+            {
+                "VAR_ID": "2_165552353_GA_G"
+            },
+            {
+                "OR_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 0.82374027417743
+                    }
+                }
+            },
+            {
+                "MINU": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 1549
+                    }
+                }
+            },
+            {
+                "MINA": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 1325
+                    }
+                }
+            },
+            {
+                "P_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 0.000004641
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "CHROM": "X"
+            },
+            {
+                "CLOSEST_GENE": "PAGE5"
+            },
+            {
+                "Consequence": "splice_region_variant,intron_variant"
+            },
+            {
+                "DBSNP_ID": "rs2148982"
+            },
+            {
+                "POS": 55249049
+            },
+            {
+                "Protein_change": null
+            },
+            {
+                "VAR_ID": "X_55249049_T_C"
+            },
+            {
+                "OR_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 0.907374513081956
+                    }
+                }
+            },
+            {
+                "MINU": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 8522
+                    }
+                }
+            },
+            {
+                "MINA": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 7952
+                    }
+                }
+            },
+            {
+                "P_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 0.000004719
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "CHROM": "22"
+            },
+            {
+                "CLOSEST_GENE": "PRR5-ARHGAP8"
+            },
+            {
+                "Consequence": "synonymous_variant"
+            },
+            {
+                "DBSNP_ID": "rs8881"
+            },
+            {
+                "POS": 45258457
+            },
+            {
+                "Protein_change": "p.A550A"
+            },
+            {
+                "VAR_ID": "22_45258457_A_G"
+            },
+            {
+                "OR_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 0.788754626132262
+                    }
+                }
+            },
+            {
+                "MINU": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 1099
+                    }
+                }
+            },
+            {
+                "MINA": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 903
+                    }
+                }
+            },
+            {
+                "P_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 0.000005421
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "CHROM": "2"
+            },
+            {
+                "CLOSEST_GENE": "COBLL1"
+            },
+            {
+                "Consequence": "missense_variant"
+            },
+            {
+                "DBSNP_ID": "rs7607980"
+            },
+            {
+                "POS": 165551201
+            },
+            {
+                "Protein_change": "p.N939D"
+            },
+            {
+                "VAR_ID": "2_165551201_T_C"
+            },
+            {
+                "OR_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 0.826876442164626
+                    }
+                }
+            },
+            {
+                "MINU": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 1497
+                    }
+                }
+            },
+            {
+                "MINA": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 1290
+                    }
+                }
+            },
+            {
+                "P_FIRTH_FE_IV": {
+                    "ExSeq_17k_mdv21": {
+                        "T2D": 0.000007566
+                    }
+                }
+            }
+        ]
+    ],
+    "passback": "abc123"
+}
