@@ -1,0 +1,17 @@
+{"passback": "abc123",
+"entity": "variant",
+"page_start":-1,
+"page_size": -1,
+"limit": 1000, "count": true,
+"order_by": [],
+"properties": {
+    "cproperty": [ "CHROM" , "CLOSEST_GENE" , "Consequence" , "DBSNP_ID" , "POS" , "Protein_change" , "VAR_ID"],
+    "dproperty" : {} ,
+    "pproperty" : {
+        "MINA" : { "ExSeq_17k_mdv2" : [ "T2D"]},
+        "MINU" : { "ExSeq_17k_mdv2" : [ "T2D"]},
+        "OR_FIRTH_FE_IV" : { "ExSeq_17k_mdv2" : [ "T2D"]},
+        "P_FIRTH_FE_IV" : { "ExSeq_17k_mdv2" : [ "T2D"] } }
+        },
+    "filters":  [ {"dataset_id": "ExSeq_17k_mdv2", "phenotype": "T2D", "operand": "P_FIRTH_FE_IV", "operator": "LT", "value": 0.00001, "operand_type": "FLOAT"} ]
+}
