@@ -1,0 +1,83 @@
+{
+    "is_error": false,
+    "numRecords": 1,
+    "gene-info": {
+        "ID": "SLC30A8",
+        "CHROM": "8",
+        "BEG": 117962462,
+        "END": 118189003,
+        "Function_description": "Facilitates the accumulation of zinc from the cytoplasm into intracellular vesicles, being a zinc-efflux transporter. May be a major component for providing zinc to insulin maturation and/or storage processes in insulin-secreting pancreatic beta- cells.",
+        "_13k_T2D_VAR_TOTAL": 97,
+        "_13k_T2D_ORIGIN_VAR_TOTALS": {
+            "HS": {
+                "SING": 9,
+                "RARE": 5,
+                "LOW_FREQUENCY": 0,
+                "COMMON": 1,
+                "TOTAL": 15,
+                "NS": 1938
+            },
+            "AA": {
+                "SING": 12,
+                "RARE": 16,
+                "LOW_FREQUENCY": 5,
+                "COMMON": 1,
+                "TOTAL": 34,
+                "NS": 2025
+            },
+            "EU": {
+                "SING": 12,
+                "RARE": 7,
+                "LOW_FREQUENCY": 0,
+                "COMMON": 1,
+                "TOTAL": 20,
+                "NS": 4518
+            },
+            "EA": {
+                "SING": 15,
+                "RARE": 3,
+                "LOW_FREQUENCY": 0,
+                "COMMON": 2,
+                "TOTAL": 20,
+                "NS": 2163
+            },
+            "SA": {
+                "SING": 18,
+                "RARE": 12,
+                "LOW_FREQUENCY": 0,
+                "COMMON": 1,
+                "TOTAL": 31,
+                "NS": 2199
+            }
+        },
+        "_17k_T2D_lof_NVAR": 14,
+        "_17k_T2D_lof_MINA_MINU_RET": "8/19",
+        "_17k_T2D_lof_P_METABURDEN": 0.052031,
+        "_13k_T2D_GWS_TOTAL": 0,
+        "_13k_T2D_LWS_TOTAL": 1,
+        "_13k_T2D_NOM_TOTAL": 5,
+        "_17k_T2D_lof_OBSA": 8351,
+        "_17k_T2D_lof_OBSU": 8436,
+        "EXCHP_T2D_VAR_TOTALS": {
+            "EU": {
+                "RARE": 6,
+                "LOW_FREQUENCY": 0,
+                "COMMON": 3,
+                "TOTAL": 9,
+                "NS": 81740
+            }
+        },
+        "EXCHP_T2D_GWS_TOTAL": 3,
+        "EXCHP_T2D_LWS_TOTAL": 3,
+        "EXCHP_T2D_NOM_TOTAL": 4,
+        "GWS_TRAITS": [
+            "FastGlu",
+            "ProIns",
+            "T2D"
+        ],
+        "GWAS_T2D_GWS_TOTAL": 4,
+        "GWAS_T2D_LWS_TOTAL": 9,
+        "GWAS_T2D_NOM_TOTAL": 149,
+        "GWAS_T2D_VAR_TOTAL": 1144
+    }
+}
